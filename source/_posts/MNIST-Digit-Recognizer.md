@@ -4,6 +4,8 @@ date: 2025-07-24 14:44:31
 tags: [Flutter, Flask, PyTorch]
 ---
 
+Repo: [*MNIST Digit Recognizer*](https://github.com/wayuto/MNIST-Digit-Recognizer)
+
 ## ***Introduction***
 *An example application for MNIST digit recognition.*  
 *Use Flask to create an API interface that accepts a POST request with a matrix, predicts using a PyTorch model, and returns the result.*
