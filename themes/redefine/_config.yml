@@ -375,6 +375,7 @@ comment:
       clientSecret: 79241ebc29cd9652fbc7f5a1acd4d460207f3861 # GitHub Application Client Secret
       repo: blog # GitHub repository
       owner: wayuto # GitHub repository owner
+      admin: ["wayuto"]
       proxy: # GitHub repository proxy
     # Twikoo comment system. See https://twikoo.js.org/
     twikoo:
