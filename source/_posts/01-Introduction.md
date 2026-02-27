@@ -4,7 +4,7 @@ date: 2026-02-26 23:25:16
 tags:
 ---
 # 介绍
-`Alum`语言是一门静态类型，语法接近`C`与`Rust`，运行在x86_64 Linux平台的语言，对`C`语言有良好的兼容性，性能接近C(Benchmark: fib(30)), 由笔者使用`Rust`独立开发。
+`Alum`语言是一门静态类型，语法接近`C`与`Rust`，运行在x86_64 Linux平台的语言，对`C`语言有良好的兼容性，性能接近C(Benchmark: fib(30)), 由[笔者](/about)使用`Rust`独立开发。
 
 ## Hello world
 这是每个语言经典的第一个程序，对于`Alum`, 最简单的Hello world如下
