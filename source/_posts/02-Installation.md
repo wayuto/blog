@@ -21,7 +21,7 @@ $ echo 'export RUSTUP_DIST_SERVER=https://mirrors.tuna.tsinghua.edu.cn/rustup' >
 并切换到`Bash`以进行安装
 ```bash
 $ bash
-$ rustup default nightly // Alum以来Rust Nightly
+$ rustup default nightly // Alum依赖Rust Nightly
 ```
 
 ## 安装Alum
