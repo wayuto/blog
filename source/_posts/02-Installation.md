@@ -1,7 +1,7 @@
 ---
 title: 02-环境搭建
 date: 2026-02-27 12:13:25
-tags:
+tags: Alum
 ---
 
 `Alum`目前不具备跨平台性，仅支持x86_64 Linux平台

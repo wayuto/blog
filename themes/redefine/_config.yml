@@ -220,12 +220,12 @@ navbar:
     # Status: 
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
-    # About: 
-    #   icon: fa-regular fa-user
-    #   submenus:
-    #     Me: /about
-    #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
-    #     Blog: https://ohevan.com
+    About: 
+       icon: fa-regular fa-user
+       submenus:
+         Me: /about
+         Github: https://github.com/wayuto
+         Blog: https://cr0.dpdns.org
     #     Friends: /friends
     # Links: 
     #   icon: fa-regular fa-link
